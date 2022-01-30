@@ -1,0 +1,38 @@
+﻿E:\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(OpenCV_Test.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  IPB.cpp
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(47,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(56,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(131,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(140,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(176,13): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(184,20): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(212,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(214,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(238,12): warning C4018: “>=”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(244,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(246,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(266,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(268,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(283,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(285,23): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(299,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(301,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(312,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(314,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(378,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(380,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(401,12): warning C4018: “>=”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(407,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(409,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(427,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(429,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(443,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(445,23): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(458,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(460,22): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(470,21): warning C4018: “<”: 有符号/无符号不匹配
+S:\摸鱼\OpenCV_Test\c++\OpenCV_Test\IPB.cpp(472,22): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  test.cpp
+  正在生成代码...
+  OpenCV_Test.vcxproj -> S:\摸鱼\OpenCV_Test\c++\x64\Debug\Ipb.exe
